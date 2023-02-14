@@ -1,0 +1,14 @@
+.message{
+    background-color: teal;
+    width: 70%;
+    color: white;
+    padding: 10px 12px;
+    margin: 12px 12px;
+}
+
+.chat-container{
+    display: grid;
+    grid-template-rows: 1fr 5fr 3fr;
+
+}
+
